@@ -9,14 +9,14 @@
 	<url>https://github.com/RestExpress/RestExpress-Scaffold</url>
 	<groupId>com.strategicgains.archetype</groupId>
 	<artifactId>restexpress-demo</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<dependencies>
 		<dependency>
 			<groupId>com.strategicgains</groupId>
 			<artifactId>restexpress-loader</artifactId>
-			<version>0.1-SNAPSHOT</version>
+			<version>0.2-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>

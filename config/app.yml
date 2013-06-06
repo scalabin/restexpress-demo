@@ -22,5 +22,6 @@ metricsConfig:
      
 serviceClasses:
    - com.strategicgains.restexpress.scaffold.minimal.controller.SampleControllerImpl
+   - com.strategicgains.restexpress.scaffold.minimal.controller.JAXRS2ControllerImpl
 
 exceptionMapper: com.strategicgains.restexpress.scaffold.minimal.exception.ExceptionMapperImpl
